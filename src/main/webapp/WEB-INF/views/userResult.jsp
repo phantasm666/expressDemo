@@ -5,6 +5,8 @@
     <meta charset="UTF-8" />
 </head>
 <body>
-12345
+<h>用户信息</h>
+姓名：====${userName}<br>
+年龄：====${age}
 </body>
 </html>
